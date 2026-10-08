@@ -1,0 +1,5 @@
+/agent-rust/target
+/logger-child/build
+/dist
+
+*.exe
